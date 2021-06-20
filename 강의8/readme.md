@@ -1,6 +1,6 @@
 # Computer Vision with c++
 
-## Line Detection
+## Project2
 
 - Develop a program which detects lanes departure
     - Read ‘Road-1.mp4’ (강의6)

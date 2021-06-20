@@ -8,4 +8,4 @@
 
 # Result
 
-![Result](/강의1/result.gif)
+![Result](https://www.youtube.com/watch?v=HUBSyWrDkAg)

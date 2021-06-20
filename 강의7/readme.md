@@ -1,6 +1,6 @@
 # Computer Vision with c++
 
-## Project2
+## Line Detection
 
 - Develop a program which draws lines corresponding to lanes of a video
     - Read ‘Road-1.mp4’ (강의6)
