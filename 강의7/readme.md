@@ -17,4 +17,4 @@
 
 # Result
 
-![Result](/강의7/result.gif)
+[Result](https://www.youtube.com/watch?v=Rc7YARwyfjk)

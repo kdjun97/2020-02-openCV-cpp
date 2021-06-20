@@ -8,4 +8,4 @@
 
 # Result
 
-![Result](https://www.youtube.com/watch?v=HUBSyWrDkAg)
+[Result](https://www.youtube.com/watch?v=HUBSyWrDkAg)

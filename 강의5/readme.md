@@ -38,4 +38,4 @@
 
 # Result
 
-![Result](/강의5/result.gif)
+[Result](https://www.youtube.com/watch?v=9qI622-AIt8)
